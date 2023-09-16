@@ -1,0 +1,18 @@
+---
+object: set
+id: 387eb35e-18ae-4162-9332-2c2d3a1d16c1
+code: pmrd
+name: Mirrodin Promos
+uri: https://api.scryfall.com/sets/387eb35e-18ae-4162-9332-2c2d3a1d16c1
+scryfall_uri: https://scryfall.com/sets/pmrd
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmrd&unique=prints
+released_at: '2004-06-04'
+set_type: promo
+card_count: 1
+parent_set_code: mrd
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: mrd
+block: Mirrodin
+icon_svg_uri: https://svgs.scryfall.io/sets/mrd.svg?1694404800
